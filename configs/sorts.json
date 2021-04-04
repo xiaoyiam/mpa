@@ -1,11 +1,22 @@
 {
     "": [
-        "intro.md"
+        "intro.md", 
+        "readme.md", 
+        "academic-writing"
     ], 
     "__positions": {
+        "academic-writing/why-academic-writing-so-hard.md": 3001, 
+        "academic-writing": 3, 
+        "readme.md": 2, 
         "intro.md": 1
     }, 
+    "academic-writing": [
+        "why-academic-writing-so-hard.md"
+    ], 
     "__raw_positions": {
+        "academic-writing/why-academic-writing-so-hard.md": 1, 
+        "academic-writing": 3, 
+        "readme.md": 2, 
         "intro.md": 1
     }
 }
