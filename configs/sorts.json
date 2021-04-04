@@ -5,17 +5,20 @@
         "academic-writing"
     ], 
     "__positions": {
-        "academic-writing/why-academic-writing-so-hard.md": 3001, 
+        "academic-writing/why-academic-writing-so-hard.md": 3002, 
         "academic-writing": 3, 
+        "academic-writing/ref.md": 3001, 
         "readme.md": 2, 
         "intro.md": 1
     }, 
     "academic-writing": [
+        "ref.md", 
         "why-academic-writing-so-hard.md"
     ], 
     "__raw_positions": {
-        "academic-writing/why-academic-writing-so-hard.md": 1, 
+        "academic-writing/why-academic-writing-so-hard.md": 2, 
         "academic-writing": 3, 
+        "academic-writing/ref.md": 1, 
         "readme.md": 2, 
         "intro.md": 1
     }
