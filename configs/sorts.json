@@ -2,24 +2,35 @@
     "": [
         "intro.md", 
         "readme.md", 
+        "time-bank", 
+        "paper-reading", 
         "academic-writing"
     ], 
     "__positions": {
-        "academic-writing/why-academic-writing-so-hard.md": 3002, 
-        "academic-writing": 3, 
-        "academic-writing/ref.md": 3001, 
+        "academic-writing": 5, 
+        "academic-writing/ref.md": 5001, 
+        "time-bank/time-bank.md": 3001, 
+        "intro.md": 1, 
+        "academic-writing/why-academic-writing-so-hard.md": 5002, 
+        "paper-reading": 4, 
         "readme.md": 2, 
-        "intro.md": 1
+        "time-bank": 3
     }, 
     "academic-writing": [
         "ref.md", 
         "why-academic-writing-so-hard.md"
     ], 
     "__raw_positions": {
-        "academic-writing/why-academic-writing-so-hard.md": 2, 
-        "academic-writing": 3, 
+        "academic-writing": 5, 
         "academic-writing/ref.md": 1, 
+        "time-bank/time-bank.md": 1, 
+        "intro.md": 1, 
+        "academic-writing/why-academic-writing-so-hard.md": 2, 
+        "paper-reading": 4, 
         "readme.md": 2, 
-        "intro.md": 1
-    }
+        "time-bank": 3
+    }, 
+    "time-bank": [
+        "time-bank.md"
+    ]
 }
